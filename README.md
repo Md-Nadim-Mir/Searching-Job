@@ -34,6 +34,7 @@ Live site link : [https://serching-jobs.web.app/]
 - The article explains the role of brand-focused pages in your Search Job platform. It highlights how these pages effectively represent the uniqueness and offerings of each brand, contributing to a holistic shopping experience.
 
 - Overall , this project is responsive for all device .
+- This project is running in development process . 
 
  
 
